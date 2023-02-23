@@ -1,4 +1,3 @@
 # Edube
 
-This project contains solutions of all the excercise exaplained 
-in Edube
+This project includes solutions for all the exercises explained in Edube.

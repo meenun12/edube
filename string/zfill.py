@@ -1,5 +1,2 @@
-txt = "50"
-
-x = txt.zfill(10)
-
-print(x)
+import math
+print(math.pow(2))

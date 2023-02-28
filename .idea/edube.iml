@@ -6,5 +6,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="data-merging-tool" />
+    <orderEntry type="module" module-name="data-scrapers" />
+    <orderEntry type="module" module-name="data-twitter" />
+    <orderEntry type="module" module-name="data-nsfw-filter" />
+    <orderEntry type="module" module-name="data-airflow" />
   </component>
 </module>

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-airflow/.idea/data-airflow.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-airflow/.idea/data-airflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-merging-tool/.idea/data-merging-tool.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-merging-tool/.idea/data-merging-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-nsfw-filter/.idea/data-nsfw-filter.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-nsfw-filter/.idea/data-nsfw-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-scrapers/.idea/data-scrapers.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-scrapers/.idea/data-scrapers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-twitter/.idea/data-twitter.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-twitter/.idea/data-twitter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/edube.iml" filepath="$PROJECT_DIR$/.idea/edube.iml" />
     </modules>
   </component>

@@ -11,5 +11,8 @@
     <orderEntry type="module" module-name="data-twitter" />
     <orderEntry type="module" module-name="data-nsfw-filter" />
     <orderEntry type="module" module-name="data-airflow" />
+    <orderEntry type="module" module-name="leadfeeder" />
+    <orderEntry type="module" module-name="dealroom" />
+    <orderEntry type="module" module-name="nio" />
   </component>
 </module>

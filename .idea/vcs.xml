@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/data-nsfw-filter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/data-scrapers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/data-twitter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/dealroom" vcs="Git" />
   </component>
 </project>

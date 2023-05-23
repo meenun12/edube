@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataScienceAndMachineLearning/.idea/DataScienceAndMachineLearning.iml" filepath="$PROJECT_DIR$/../DataScienceAndMachineLearning/.idea/DataScienceAndMachineLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/.idea/Downloads.iml" filepath="$PROJECT_DIR$/../Downloads/.idea/Downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FoodTrackerApp/.idea/FoodTrackerApp.iml" filepath="$PROJECT_DIR$/../FoodTrackerApp/.idea/FoodTrackerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Documents/MemberAPI/.idea/MemberAPI.iml" filepath="$PROJECT_DIR$/../Documents/MemberAPI/.idea/MemberAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Documents/RegApp/.idea/RegApp.iml" filepath="$PROJECT_DIR$/../Documents/RegApp/.idea/RegApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Documents/StorApp/.idea/StorApp.iml" filepath="$PROJECT_DIR$/../Documents/StorApp/.idea/StorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Documents/UserAccessManagement/.idea/UserAccessManagement.iml" filepath="$PROJECT_DIR$/../Documents/UserAccessManagement/.idea/UserAccessManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-airflow/.idea/data-airflow.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-airflow/.idea/data-airflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-merging-tool/.idea/data-merging-tool.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-merging-tool/.idea/data-merging-tool.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-nsfw-filter/.idea/data-nsfw-filter.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-nsfw-filter/.idea/data-nsfw-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-scrapers/.idea/data-scrapers.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-scrapers/.idea/data-scrapers.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/data-twitter/.idea/data-twitter.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/data-twitter/.idea/data-twitter.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/dealroom/.idea/dealroom.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/dealroom/.idea/dealroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Downloads/dealroom_projects/.idea/dealroom_projects.iml" filepath="$PROJECT_DIR$/../Downloads/dealroom_projects/.idea/dealroom_projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/edube.iml" filepath="$PROJECT_DIR$/.idea/edube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_app/.idea/flask_app.iml" filepath="$PROJECT_DIR$/../flask_app/.idea/flask_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_sqlalchemy_basic/.idea/flask_sqlalchemy_basic.iml" filepath="$PROJECT_DIR$/../flask_sqlalchemy_basic/.idea/flask_sqlalchemy_basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/../leadfeeder/.idea/leadfeeder.iml" filepath="$PROJECT_DIR$/../leadfeeder/.idea/leadfeeder.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nio/.idea/nio.iml" filepath="$PROJECT_DIR$/../nio/.idea/nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Documents/resume/.idea/resume.iml" filepath="$PROJECT_DIR$/../Documents/resume/.idea/resume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../terraform/.idea/terraform.iml" filepath="$PROJECT_DIR$/../terraform/.idea/terraform.iml" />
     </modules>
   </component>
 </project>

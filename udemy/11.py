@@ -1,6 +1,7 @@
-l1 = [1, 2]
+try:
+    print(5/0)
 
-for v in range(2):
-   print(v)
-
-
+except:
+    print("Sorry, something went wrong...")
+except (ValueError, ZeroDivisionError):
+    print("Too bad...")

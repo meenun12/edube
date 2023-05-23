@@ -1,9 +1,15 @@
 """
-In this program, we define a BankAccount class with two private attributes, __account_number and __balance. These attributes are encapsulated and cannot be accessed directly from outside the class. Instead, we provide two public methods, get_account_number() and get_balance(), to retrieve these attributes.
+In this program, we define a BankAccount class with two private attributes, __account_number and __balance.
+These attributes are encapsulated and cannot be accessed directly from outside the class. Instead,
+we provide two public methods, get_account_number() and get_balance(), to retrieve these attributes.
 
-We also define two methods, deposit() and withdraw(), to modify the __balance attribute. These methods ensure that the balance is updated correctly and that withdrawals cannot be made if the account has insufficient funds.
+We also define two methods, deposit() and withdraw(), to modify the __balance attribute. These methods ensure
+that the balance is updated correctly and that withdrawals cannot be made if the account has insufficient funds.
 
-In the main part of the program, we create a BankAccount object and use the public methods to interact with it. We cannot access the private attributes directly, but we can use the public methods to retrieve their values and modify them indirectly. This is an example of encapsulation, where the implementation details of the class are hidden from the outside world and can only be accessed through a well-defined public interface.
+In the main part of the program, we create a BankAccount object and use the public methods to interact with it.
+We cannot access the private attributes directly, but we can use the public methods to retrieve their values and modify
+them indirectly. This is an example of encapsulation, where the implementation details of the class are hidden from the
+outside world and can only be accessed through a well-defined public interface.
 """
 class BankAccount:
     def __init__(self, account_number, balance):

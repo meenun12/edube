@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Documents/UserAccessManagement" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/data-airflow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/data-merging-tool" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Downloads/dealroom_projects/data-nsfw-filter" vcs="Git" />

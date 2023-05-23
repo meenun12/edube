@@ -14,5 +14,16 @@
     <orderEntry type="module" module-name="leadfeeder" />
     <orderEntry type="module" module-name="dealroom" />
     <orderEntry type="module" module-name="nio" />
+    <orderEntry type="module" module-name="terraform" />
+    <orderEntry type="module" module-name="DataScienceAndMachineLearning" />
+    <orderEntry type="module" module-name="dealroom_projects" />
+    <orderEntry type="module" module-name="flask_app" />
+    <orderEntry type="module" module-name="FoodTrackerApp" />
+    <orderEntry type="module" module-name="Downloads" />
+    <orderEntry type="module" module-name="resume" />
+    <orderEntry type="module" module-name="RegApp" />
+    <orderEntry type="module" module-name="MemberAPI" />
+    <orderEntry type="module" module-name="StorApp" />
+    <orderEntry type="module" module-name="flask_sqlalchemy_basic" />
   </component>
 </module>
